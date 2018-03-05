@@ -1,5 +1,5 @@
 <p align="center">
- <img src="http://i.imgur.com/qyeWEWC.png" width="500" />
+ <img src="spoj-logo.png" width="500" />
 </p>
 
 # spoj-br
